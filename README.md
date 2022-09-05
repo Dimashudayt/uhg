@@ -18,7 +18,7 @@
 3. Paste the bot token on line 749 in the main.py file or if u're in replit put the token in env category.
 4. Run the command to start the bot by typing python main.py
 
-NOTE: any problem contact me in discord : !                            uFO#2771
+NOTE: any problem contact me in discord : !                            uFO#0001
 ```
 😊 Requirements:
 ```sh
