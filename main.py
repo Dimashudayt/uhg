@@ -743,7 +743,7 @@ async def avatar(ctx: commands.Context, member: discord.User = None):
 #remove this 3 lines if u're not in replit
 keep_alive()
 TOKEN = os.environ.get("BOT")
-client.run(TOKEN)
+client.run(MTAxNjkyNDc3Nzc1NzI5MDU2OA.G8eSoy.YbAkbnzS_HCbbHDabaUvzIru9Uz6yow6iAP6Lk)
 
 
 #client.run('TOKEN')
